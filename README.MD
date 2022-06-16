@@ -2,7 +2,7 @@
 
 Theme for the [OnionOS](https://github.com/jimgraygit/Onion) customization layer made for Miyoo Mini devices.
 
-Heavily inspired by [Lilla by evolve](https://github.com/jimgraygit/Onion/files/8598951/Lilla.zip) theme and loosely following KDE Plasma's [Breeze Dark](https://develop.kde.org/hig/style/color/dark/) colorscheme and icons.
+I took [Lilla by evolve](https://github.com/jimgraygit/Onion/files/8598951/Lilla.zip) theme as a base and then I've loosely followed [Breeze Dark](https://develop.kde.org/hig/style/color/dark/) (KDE Plasma theme) colorscheme and icons.
 
 > **Important:** This is still a work in progess and I haven't replaced all purplish colors with the breeze blue.
 
