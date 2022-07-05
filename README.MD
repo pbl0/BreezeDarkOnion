@@ -6,6 +6,8 @@ I took [Lilla by evolve](https://github.com/jimgraygit/Onion/files/8598951/Lilla
 
 > **Important:** This is still a work in progess and I haven't replaced all purplish colors with the breeze blue.
 
+# [Click here to download](https://github.com/pbl0/BreezeDarkOnion/releases)
+
 
 ### Screenshots:
 
